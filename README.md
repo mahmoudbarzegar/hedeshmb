@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**hedeshmb/hedeshmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  Hi 👋, I'm 
+  <a href="https://github.com/hedeshmb" target="blank">
+    Mahmoud
+  </a>
+/h1>
+<h3 align="center">Software Developer</h3>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="200" alt="GIF" src="https://hedesh.ir/static/image/programmer.gif">
+</a>
+-  I'm currently working in <a href="https://mediana.ir/" target="blank">Mediana</a>
+<br/>
+-  I'm available for freelancing.
+<br/><br/><br/>
+<div class="icons-social" style="margin-left: 10px;">
+  <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mahmoud-barzegar-hedesh-6a26bb51/">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://hedesh.ir/">
+    <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png">
+  </a>
+</div>
