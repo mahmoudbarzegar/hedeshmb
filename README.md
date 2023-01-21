@@ -17,6 +17,6 @@
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://hedesh.ir/">
-    <img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png">
+    <img src="https://banner2.cleanpng.com/20180320/www/kisspng-blogger-computer-icons-google-website-blogger-logo-svg-icon-5ab0b430b582f1.8070858615215299047435.jpg">
   </a>
 </div>
