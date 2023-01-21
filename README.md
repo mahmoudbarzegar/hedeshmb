@@ -17,6 +17,6 @@
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://hedesh.ir/">
-    Hedesh.ir
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
   </a>
 </div>
