@@ -8,7 +8,7 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" alt="GIF" src="https://hedesh.ir/static/image/programmer.gif">
 </a>
--  I'm currently working in <a href="https://mediana.ir/" target="blank">Mediana</a>
+-  I'm currently working in <a href="https://mediana.ir/" target="_blank">Mediana</a>
 <br/>
 -  I'm available for freelancing.
 <br/><br/><br/>
@@ -17,6 +17,6 @@
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
   </a>
   <a style="margin-left: 10px;" target="_blank" href="https://hedesh.ir/">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+    <img src="https://hedesh.ir/static/image/blog.png">
   </a>
 </div>
