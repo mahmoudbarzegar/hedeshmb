@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">Full-Stack Developer</h3>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="200" alt="GIF" src="https://hedesh.ir/static/image/programmer.gif">
+  <img align="right" top="500" height="200" alt="GIF" src="https://hedesh.ir/static/image/programmer-new.gif">
 </a>
 -  I'm currently working in <a href="https://mediana.ir/" target="_blank">Mediana</a>
 <br/>
