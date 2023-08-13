@@ -19,4 +19,7 @@
   <a style="margin-left: 10px;" target="_blank" href="https://hedesh.ir/">
     <img src="https://hedesh.ir/static/image/blog-hedesh.png">
   </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://irannote.ir/">
+    <img src="https://hedesh.ir/static/image/irannote.png">
+  </a>
 </div>
